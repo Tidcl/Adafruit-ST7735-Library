@@ -1,4 +1,4 @@
-﻿该项目从 [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) fork﻿﻿而来，作为ST7735s显示面板的驱动用在项目中使用。
+﻿﻿该项目从 [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) fork﻿﻿而来，作为ST7735s显示面板的驱动用在项目中使用。
 
 因为网络上esp32s3与ST7735s的资料较少，故做此纪录。
 
@@ -6,8 +6,8 @@
 
 ## 本人的测试环境：
 
-1. esp32s3![67d109cf63299b15de6fe69d7ffcd230-17291512049601](D:\Code\Adafruit-ST7735-Library\README.assets\67d109cf63299b15de6fe69d7ffcd230-17291512049601.jpeg)
-2. ST7735s![IMG20241021124917](D:\Code\Adafruit-ST7735-Library\README.assets\IMG20241021124917.jpg)![IMG20241021124933](D:\Code\Adafruit-ST7735-Library\README.assets\IMG20241021124933.jpg)
+1. esp32s3![67d109cf63299b15de6fe69d7ffcd230-17291512049601](README.assets/67d109cf63299b15de6fe69d7ffcd230-17291512049601.jpeg)
+2. ST7735s![IMG20241021124917](README.assets\IMG20241021124917.jpg)![IMG20241021124933](README.assets\IMG20241021124933.jpg)
 3. Arduino IDE 3.4.4
 
 
